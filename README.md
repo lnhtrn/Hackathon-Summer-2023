@@ -1,5 +1,5 @@
 # University of Rochester Biomedical Data Science Hackathon Summer 2023
-Welcome to the landing page for the hackathon. All important information will appear here when the competition starts. In the meantime, please register and watch for further instructions. All teams scoring better than random will receive a participation prize. 1st and 2nd place winning teams in each division will get a cash prize (see below).
+The hackathon is now completed and final scores are posted.
 
 # Logistics
 
@@ -42,3 +42,23 @@ See [data description](Data.Description.md) for details.
 1.  First place in each division: $300 + $75 x (team size)
 2.  Second place in each division: 0 + $50 x (team size)
   
+# Winners!
+**Congratulations to the winning teams:**
+ * 1st place Undergraduate division- athena
+ * 2nd place Undergraduate division- MLbeginners
+ 
+ * 1st place Open division - CookieMonster 
+ * 2nd place Open division- DMMH
+
+If your team's final MCC was >0.0012, you will receive a prize! 
+* All individuals who participated in the following teams will receive a prize for your score: CookieMonster, DMMH, MF_ZS, TheSelfishFruitFlies, athena, AveragePitaEnjoyers, DataMedics, MLbeginners, NW_KD_EL, CIV, ZhongZaiCanYu, GAC Soldiers, ant_on, wizard,DrJones
+
+In order to claim your prize, you will need to fill out a [post-competition survey](https://forms.gle/7cgLDG6nPKQUc8tc9) and [prize information form](https://forms.gle/L7cHJQBXYBpy3sU37).
+
+
+# Feedback and post-event information
+Thank you for participating in this competition! We hope that you enjoyed the event. Please give us feedback so that we can improve future events. All teams that submit predictions may receive a participation certificate. Please e-mail alarracu at bio.rochester.edu for your certificate.
+
+**Fill out the post-competition [survey](https://forms.gle/7cgLDG6nPKQUc8tc9).** 
+* If your team submitted predictions and you would like to receive a certificate of participation, please e-mail alarracu@bio.rochester.edu. 
+* Some of the winning teams will present their approach to the hackathon in an upcoming meeting of the GIDS working group in life and biomedical data science. You are all invited. Details about the meeting will come via e-mail once it is scheduled.
